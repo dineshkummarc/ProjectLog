@@ -14,7 +14,8 @@ namespace pl.Tests.Mocks
     using pl.Interfaces;
 
     /// <summary>
-    /// A mock ProjectRepository used for testing.
+    /// A mock ProjectRepository to help get kickstarted.
+    /// This will be removed later.
     /// </summary>
     public class MockProjectRepository : IProjectRepository 
     {

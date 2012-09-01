@@ -58,6 +58,7 @@ namespace pl.Tests.Helpers
         private static void SetupContainer()
         {
             Container.Register<IProjectRepository, MockProjectRepository>(false);
+            Container.Register<IUserRepository, MockUserRepository>(false);
         }
 
         #endregion

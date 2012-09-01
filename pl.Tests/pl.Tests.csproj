@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fixtures\ProjectFixture.cs" />
+    <Compile Include="Fixtures\UserFixture.cs" />
     <Compile Include="Helpers\FixtureBase.cs" />
     <Compile Include="Mocks\MockProjectRepository.cs" />
+    <Compile Include="Mocks\MockUserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
