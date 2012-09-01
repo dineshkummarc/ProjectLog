@@ -1,0 +1,2 @@
+C:\Catalog\Catalog\clog\bin\Debug\plog.exe.config
+C:\Catalog\Catalog\clog\bin\Debug\pl.exe.config

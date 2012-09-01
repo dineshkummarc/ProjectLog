@@ -1,0 +1,8 @@
+C:\Catalog\Catalog\clog.Tests\obj\Debug\pl.Tests.csprojResolveAssemblyReference.cache
+C:\Catalog\Catalog\clog.Tests\bin\Debug\pl.Tests.dll
+C:\Catalog\Catalog\clog.Tests\bin\Debug\pl.Tests.pdb
+C:\Catalog\Catalog\clog.Tests\bin\Debug\nunit.framework.dll
+C:\Catalog\Catalog\clog.Tests\bin\Debug\pl.exe
+C:\Catalog\Catalog\clog.Tests\bin\Debug\pl.pdb
+C:\Catalog\Catalog\clog.Tests\obj\Debug\pl.Tests.dll
+C:\Catalog\Catalog\clog.Tests\obj\Debug\pl.Tests.pdb

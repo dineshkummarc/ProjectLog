@@ -1,0 +1,6 @@
+C:\Catalog\Catalog\clog\bin\Debug\pl.exe.config
+C:\Catalog\Catalog\clog\bin\Debug\pl.exe
+C:\Catalog\Catalog\clog\bin\Debug\pl.pdb
+C:\Catalog\Catalog\clog\obj\Debug\pl.csprojResolveAssemblyReference.cache
+C:\Catalog\Catalog\clog\obj\Debug\pl.exe
+C:\Catalog\Catalog\clog\obj\Debug\pl.pdb
