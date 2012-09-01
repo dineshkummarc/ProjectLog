@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\clog\pl.csproj">
+    <ProjectReference Include="..\pl\pl.csproj">
       <Project>{ebf771af-2d05-454a-9f9a-0711ce63096a}</Project>
       <Name>pl</Name>
     </ProjectReference>

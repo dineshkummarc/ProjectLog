@@ -1,14 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// -----------------------------------------------------------------------
+// <copyright file="Program.cs" company="Humilis">
+// David Harper 2012, this is free software.
+// </copyright>
+// -----------------------------------------------------------------------
 
 namespace pl
 {
-    class Program
+    /// <summary>
+    /// Entry point for the pl.
+    /// TODO: Update summary.
+    /// </summary>
+    public class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Defines the entry point of the application.
+        /// </summary>
+        /// <param name="args">The args.</param>
+        public static void Main(string[] args) 
         {
         }
     }

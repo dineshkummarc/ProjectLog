@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Project.cs" />
+    <Compile Include="Exceptions\ContainerException.cs" />
     <Compile Include="Factories\ProjectFactory.cs" />
     <Compile Include="Helpers\Container.cs" />
     <Compile Include="Interfaces\IProjectRepository.cs" />
