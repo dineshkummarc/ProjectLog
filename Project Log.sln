@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pl", "clog\pl.csproj", "{EBF771AF-2D05-454A-9F9A-0711CE63096A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pl", "pl\pl.csproj", "{EBF771AF-2D05-454A-9F9A-0711CE63096A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pl.Tests", "clog.Tests\pl.Tests.csproj", "{A5EC2D23-AF0C-4483-BD0C-F793C138D7AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pl.Tests", "pl.Tests\pl.Tests.csproj", "{A5EC2D23-AF0C-4483-BD0C-F793C138D7AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
